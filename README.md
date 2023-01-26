@@ -1,2 +1,2 @@
 # Word-Game
-Project in Applications Development and Emerging Technologies
+Project for CS106 Applications Development and Emerging Technologies
